@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I am an aviation professional, graduated in mathematics and an enthusiast in the area of ​​software development.
- I have more than 30 years of experience in maintaining the most important aircraft on the market.
+
+I have more than 30 years of experience in maintaining the most important aircraft on the market. 
 
 
 
